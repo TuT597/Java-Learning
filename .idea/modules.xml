@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BeerSong/BeerSong.iml" filepath="$PROJECT_DIR$/BeerSong/BeerSong.iml" />
       <module fileurl="file://$PROJECT_DIR$/Head First Java.iml" filepath="$PROJECT_DIR$/Head First Java.iml" />
     </modules>
   </component>
