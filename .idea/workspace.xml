@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8eb25671-acf0-462b-8275-175dfe3d86a6" name="Changes" comment="BeerSong book example">
-      <change afterPath="$PROJECT_DIR$/Phrase-O-Matic/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Phrase-O-Matic/Phrase-O-Matic.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Phrase-O-Matic/src/PhraseOMatic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8eb25671-acf0-462b-8275-175dfe3d86a6" name="Changes" comment="BeerSong book example" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +19,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Ore9GoaKcSP4mdP5dXBvzmyJoX" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -42,6 +39,7 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "jdk.selected.JAVA_MODULE": "openjdk-20",
+    "last_opened_file_path": "D:/GitHub/Head-First-Java",
     "onboarding.tips.debug.path": "C:/Users/tuyan/Desktop/Projecten/Java/Head First Java/BeerSong/src/BeerSong.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
