@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8eb25671-acf0-462b-8275-175dfe3d86a6" name="Changes" comment="BeerSong book example" />
+    <list default="true" id="8eb25671-acf0-462b-8275-175dfe3d86a6" name="Changes" comment="Test from new pc">
+      <change afterPath="$PROJECT_DIR$/The Guessing Game/The Guessing Game.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The Guessing Game/src/GameLauncher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The Guessing Game/src/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +28,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectId" id="2Ore9GoaKcSP4mdP5dXBvzmyJoX" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -44,6 +53,11 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "JAVA"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
@@ -56,7 +70,7 @@
       <recent name="BeerSong" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.GameLauncher">
     <configuration name="BeerSong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BeerSong" />
       <module name="BeerSong" />
@@ -64,8 +78,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="GameLauncher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GameLauncher" />
+      <module name="The Guessing Game" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovieTestDrive (1)" type="Java Scratch" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MovieTestDrive" />
+      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/MovieTestDrive.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovieTestDrive" type="Java Scratch" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MovieTestDrive" />
+      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GameLauncher" />
+        <item itemvalue="Java Scratch.MovieTestDrive (1)" />
+        <item itemvalue="Java Scratch.MovieTestDrive" />
         <item itemvalue="Application.BeerSong" />
       </list>
     </recent_temporary>
@@ -86,11 +124,19 @@
       <option name="project" value="LOCAL" />
       <updated>1682327720696</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Test from new pc">
+      <created>1682506311552</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1682506311552</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="BeerSong book example" />
-    <option name="LAST_COMMIT_MESSAGE" value="BeerSong book example" />
+    <MESSAGE value="Test from new pc" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test from new pc" />
   </component>
 </project>
