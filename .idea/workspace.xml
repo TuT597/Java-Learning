@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8eb25671-acf0-462b-8275-175dfe3d86a6" name="Changes" comment="Test from new pc">
+    <list default="true" id="8eb25671-acf0-462b-8275-175dfe3d86a6" name="Changes" comment="Little array test with dogs">
+      <change afterPath="$PROJECT_DIR$/src/Lasagna.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +28,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2Ore9GoaKcSP4mdP5dXBvzmyJoX" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -66,14 +68,7 @@
       <recent name="BeerSong" />
     </key>
   </component>
-  <component name="RunManager" selected="Java Scratch.Dog">
-    <configuration name="BeerSong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BeerSong" />
-      <module name="BeerSong" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Java Scratch.Scratch">
     <configuration name="GameLauncher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GameLauncher" />
       <module name="The Guessing Game" />
@@ -102,13 +97,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Scratch" type="Java Scratch" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Scratch" />
+      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Java Scratch.Scratch" />
         <item itemvalue="Java Scratch.Dog" />
         <item itemvalue="Application.GameLauncher" />
         <item itemvalue="Java Scratch.MovieTestDrive (1)" />
         <item itemvalue="Java Scratch.MovieTestDrive" />
-        <item itemvalue="Application.BeerSong" />
       </list>
     </recent_temporary>
   </component>
@@ -135,12 +137,20 @@
       <option name="project" value="LOCAL" />
       <updated>1682506311552</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Little array test with dogs">
+      <created>1682948394425</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1682948394425</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="BeerSong book example" />
     <MESSAGE value="Test from new pc" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test from new pc" />
+    <MESSAGE value="Little array test with dogs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Little array test with dogs" />
   </component>
 </project>

@@ -1,1 +1,1 @@
-This repository is where i save all the assignments i am making while working through the book head first Java.
+This repository contains random little scripts and programs i write while learning Java.
